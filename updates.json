@@ -6,16 +6,15 @@
       "repo": "Studio_Web_Page",
       "date": "2026-10-20",
       "title": "Update updates.json",
-      "url": "https://github.com/SilentDev-nocopy/Studio_Web_Page/commit/96597539b506695178dbac744854c6d8981d9121"
-    },
-    {
-      "repo": "Python",
-      "date": "2026-09-08",
-      "title": ".",
-      "url": "https://github.com/SilentDev-nocopy/Python/commit/7e1f8ac93e7d1f28602c0c58fa6970551dc80a7e"
+      "url": "https://github.com/SilentDev-nocopy/Studio_Web_Page/commit/fb0f2295dab3adc9828dfe03ee5094eefca0a796"
     }
   ],
   "errors": [
+    {
+      "repo": "Python",
+      "status": 404,
+      "detail": "{\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/commits/commits#list-commits\",\"status\":\"404\"}"
+    },
     {
       "repo": "NEXA",
       "status": 404,
